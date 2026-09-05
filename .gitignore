@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+data/db.json
+data/test-db.json
+data/*.tmp
+uploads/*
+!uploads/.gitkeep
+!uploads/royal-crimson-lehenga.jpg
+*.log
+.DS_Store
